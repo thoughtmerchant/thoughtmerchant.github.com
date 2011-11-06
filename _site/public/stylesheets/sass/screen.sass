@@ -1,0 +1,102 @@
+/*
+  Welcome to Compass.
+  In this file you should write your main styles. (or centralize your imports)
+  Import this file using the following HTML or equivalent:
+  <link href="/stylesheets/screen.css" media="screen, projection" rel="stylesheet" type="text/css" />
+
+@import "compass/css3/border-radius"
+
+// --------- Basic Rules
+img
+  margin-bottom: 21px
+  display: block
+
+body
+  background-color: #f2f2f1
+
+
+
+// ----------- My Rules
+
+#tm_logo
+  background: url(/images/chrome/tm_logo.png) 0 0 no-repeat
+  height: 35px
+  width: 61px
+  text-indent: -999999px
+  float: right
+  clear: both
+  margin-bottom: 21px
+
+#secret_header
+  display: table
+  height: 21px
+  clear: both
+
+#nav li
+  text-align: right
+  margin-bottom: 0
+  a
+    font-weight: bold
+    display: block
+    color: #555555
+    text-decoration: none
+    padding: 7px
+    @include border-radius(4px)
+  a:hover
+    color: #db1750
+    background-color: #DBDBDB
+  .active
+    background-color: #DBDBDB
+    color: #232323
+
+.sidebar
+  p
+    text-align: right
+    font-size: 12px
+    line-height: 14px
+
+
+// ----------- Text
+h1
+  font-size: 36px
+  line-height: 42px
+
+h1, h2, h3, h4, h5
+  font-family: helvetica, arial, sans-serif
+  font-weight: bold
+
+h2
+  font-size: 24px
+  line-height: 28px
+
+// ----------- Post Styles
+.post-content
+  margin-bottom: 21px
+.post-details
+  font-size: 10px
+  margin-bottom: 14px
+  line-height: 14px
+  color: #545454
+
+// ------------ Link styles
+a:hover
+  color: #db1750
+  text-decoration: none
+a:active
+  color: #801736
+// --------- Post Listing
+
+.post-listing
+  margin-bottom: 21px
+  p
+    margin-bottom: 0
+  a
+    font-size: 18px
+    font-weight: bold
+    line-height: 21px
+
+// ------------ Blog Posts
+
+.manycols
+  clear: left
+
