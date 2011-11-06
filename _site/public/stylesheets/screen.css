@@ -13,7 +13,13 @@ body {
   background-color: #f2f2f1;
 }
 
-/* line 21, sass/screen.sass */
+/* line 18, sass/screen.sass */
+ul {
+  list-style: disc outside none;
+  margin: 0 0 21px 28px;
+}
+
+/* line 25, sass/screen.sass */
 #tm_logo {
   background: url(/images/chrome/tm_logo.png) 0 0 no-repeat;
   height: 35px;
@@ -24,19 +30,25 @@ body {
   margin-bottom: 21px;
 }
 
-/* line 30, sass/screen.sass */
+/* line 34, sass/screen.sass */
 #secret_header {
   display: table;
   height: 21px;
   clear: both;
 }
 
-/* line 35, sass/screen.sass */
+/* line 39, sass/screen.sass */
+ul#nav {
+  list-style: none outside none;
+  margin: 0 0 21px 0;
+}
+
+/* line 42, sass/screen.sass */
 #nav li {
   text-align: right;
   margin-bottom: 0;
 }
-/* line 38, sass/screen.sass */
+/* line 45, sass/screen.sass */
 #nav li a {
   font-weight: bold;
   display: block;
@@ -50,48 +62,48 @@ body {
   -khtml-border-radius: 4px;
   border-radius: 4px;
 }
-/* line 45, sass/screen.sass */
+/* line 52, sass/screen.sass */
 #nav li a:hover {
   color: #db1750;
   background-color: #dbdbdb;
 }
-/* line 48, sass/screen.sass */
+/* line 55, sass/screen.sass */
 #nav li .active {
   background-color: #dbdbdb;
   color: #232323;
 }
 
-/* line 53, sass/screen.sass */
+/* line 60, sass/screen.sass */
 .sidebar p {
   text-align: right;
   font-size: 12px;
   line-height: 14px;
 }
 
-/* line 60, sass/screen.sass */
+/* line 67, sass/screen.sass */
 h1 {
   font-size: 36px;
   line-height: 42px;
 }
 
-/* line 64, sass/screen.sass */
+/* line 71, sass/screen.sass */
 h1, h2, h3, h4, h5 {
   font-family: helvetica, arial, sans-serif;
   font-weight: bold;
 }
 
-/* line 68, sass/screen.sass */
+/* line 75, sass/screen.sass */
 h2 {
   font-size: 24px;
   line-height: 28px;
 }
 
-/* line 73, sass/screen.sass */
+/* line 80, sass/screen.sass */
 .post-content {
   margin-bottom: 21px;
 }
 
-/* line 75, sass/screen.sass */
+/* line 82, sass/screen.sass */
 .post-details {
   font-size: 10px;
   margin-bottom: 14px;
@@ -99,33 +111,33 @@ h2 {
   color: #545454;
 }
 
-/* line 82, sass/screen.sass */
+/* line 89, sass/screen.sass */
 a:hover {
   color: #db1750;
   text-decoration: none;
 }
 
-/* line 85, sass/screen.sass */
+/* line 92, sass/screen.sass */
 a:active {
   color: #801736;
 }
 
-/* line 89, sass/screen.sass */
+/* line 96, sass/screen.sass */
 .post-listing {
   margin-bottom: 21px;
 }
-/* line 91, sass/screen.sass */
+/* line 98, sass/screen.sass */
 .post-listing p {
   margin-bottom: 0;
 }
-/* line 93, sass/screen.sass */
+/* line 100, sass/screen.sass */
 .post-listing a {
   font-size: 18px;
   font-weight: bold;
   line-height: 21px;
 }
 
-/* line 100, sass/screen.sass */
+/* line 107, sass/screen.sass */
 .manycols {
   clear: left;
 }
