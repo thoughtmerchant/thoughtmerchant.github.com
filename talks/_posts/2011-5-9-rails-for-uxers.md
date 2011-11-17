@@ -14,5 +14,5 @@ We are going to go over basic concepts and practices of integrating yourself (an
 
 We will start by going over the basic concepts of Ruby on Rails, and highlight some best practices to integrate tightly either as a consultant or in-house talent. Handing off PSDs and going back to Photoshop are no longer good enough to produce the best digital experiences.
 
-<div style="width:595px" id="__ss_8046825"> <strong style="display:block;margin:12px 0 4px"><a href="http://www.slideshare.net/ThoughtMerchants/rails-for-uxers" title="Rails for UXers" target="_blank">Rails for UXers</a></strong> <iframe src="http://www.slideshare.net/slideshow/embed_code/8046825" width="595" height="497" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"></iframe> <div style="padding:5px 0 12px"> View more <a href="http://www.slideshare.net/" target="_blank">presentations</a> from <a href="http://www.slideshare.net/ThoughtMerchants" target="_blank">Steve Berry</a> </div> </div>
+<script src="http://speakerdeck.com/embed/4ec48a8668de3300540029c4.js"></script>
 

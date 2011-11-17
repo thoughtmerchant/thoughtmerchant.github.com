@@ -13,4 +13,6 @@ Saturday March 19th at 1:00pm, I will be giving a talk on creating a mobile web 
 
 <p>Sounds like fun! I will be giving out <a href="http://www.paperwireframes.com" target="blank">Paper Wireframes</a> pads for students to use, and helping them work through their mobile web app ideas.</p>
 
-<div style="width:595px" id="__ss_9533148"> <strong style="display:block;margin:12px 0 4px"><a href="http://www.slideshare.net/ThoughtMerchants/building-web-mobile-products" title="Building Web / Mobile Products" target="_blank">Building Web / Mobile Products</a></strong> <iframe src="http://www.slideshare.net/slideshow/embed_code/9533148" width="595" height="497" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"></iframe> <div style="padding:5px 0 12px"> View more <a href="http://www.slideshare.net/" target="_blank">presentations</a> from <a href="http://www.slideshare.net/ThoughtMerchants" target="_blank">Steve Berry</a> </div> </div>
+<div class="scale-with-grid">
+  <script src="http://speakerdeck.com/embed/4ec48a465a972b00510025b9.js"></script>
+</div>
