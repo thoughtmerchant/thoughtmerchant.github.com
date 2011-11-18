@@ -13,6 +13,6 @@ Saturday March 19th at 1:00pm, I will be giving a talk on creating a mobile web 
 
 <p>Sounds like fun! I will be giving out <a href="http://www.paperwireframes.com" target="blank">Paper Wireframes</a> pads for students to use, and helping them work through their mobile web app ideas.</p>
 
-<div class="scale-with-grid">
+<div class="deck_container">
   <script src="http://speakerdeck.com/embed/4ec48a465a972b00510025b9.js"></script>
 </div>

@@ -157,6 +157,21 @@ a:active {
 }
 
 /* line 122, sass/screen.sass */
+.box {
+  background: #dbdbdb;
+  -moz-border-radius: 4px;
+  -webkit-border-radius: 4px;
+  -o-border-radius: 4px;
+  -ms-border-radius: 4px;
+  -khtml-border-radius: 4px;
+  border-radius: 4px;
+}
+/* line 125, sass/screen.sass */
+.box p {
+  padding: 14px 21px;
+}
+
+/* line 127, sass/screen.sass */
 a.linkbox {
   display: block;
   padding: 14px 47px;
@@ -171,50 +186,50 @@ a.linkbox {
   text-decoration: none;
 }
 
-/* line 129, sass/screen.sass */
+/* line 134, sass/screen.sass */
 a.linkbox:hover {
   background: #db1750 url(/images/chrome/out.png) 14px 13px no-repeat;
   color: #232323;
 }
 
 @media only screen and (min-width: 480px) and (max-width: 767px) {
-  /* line 135, sass/screen.sass */
+  /* line 140, sass/screen.sass */
   .sidebar {
     display: none;
   }
 
-  /* line 137, sass/screen.sass */
+  /* line 142, sass/screen.sass */
   #nav li a {
     text-align: left;
   }
 
-  /* line 139, sass/screen.sass */
+  /* line 144, sass/screen.sass */
   #tm_logo {
     float: left;
   }
 
-  /* line 141, sass/screen.sass */
+  /* line 146, sass/screen.sass */
   .deck_container {
     width: 300px;
   }
 }
 @media only screen and (max-width: 479px) {
-  /* line 145, sass/screen.sass */
+  /* line 150, sass/screen.sass */
   .sidebar {
     display: none;
   }
 
-  /* line 147, sass/screen.sass */
+  /* line 152, sass/screen.sass */
   #nav li a {
     text-align: left;
   }
 
-  /* line 149, sass/screen.sass */
+  /* line 154, sass/screen.sass */
   #tm_logo {
     float: left;
   }
 
-  /* line 151, sass/screen.sass */
+  /* line 156, sass/screen.sass */
   .deck_container {
     width: 300px;
   }

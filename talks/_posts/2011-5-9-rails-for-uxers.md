@@ -14,5 +14,6 @@ We are going to go over basic concepts and practices of integrating yourself (an
 
 We will start by going over the basic concepts of Ruby on Rails, and highlight some best practices to integrate tightly either as a consultant or in-house talent. Handing off PSDs and going back to Photoshop are no longer good enough to produce the best digital experiences.
 
+<div class="deck_container">
 <script src="http://speakerdeck.com/embed/4ec48a8668de3300540029c4.js"></script>
-
+</div>
