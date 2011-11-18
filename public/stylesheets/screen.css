@@ -28,27 +28,28 @@ ul {
   float: right;
   clear: both;
   margin-bottom: 21px;
+  margin-top: 21px;
 }
 
-/* line 34, sass/screen.sass */
+/* line 35, sass/screen.sass */
 #secret_header {
   display: table;
   height: 21px;
   clear: both;
 }
 
-/* line 39, sass/screen.sass */
+/* line 40, sass/screen.sass */
 ul#nav {
   list-style: none outside none;
   margin: 0 0 21px 0;
 }
 
-/* line 42, sass/screen.sass */
+/* line 43, sass/screen.sass */
 #nav li {
   text-align: right;
   margin-bottom: 0;
 }
-/* line 45, sass/screen.sass */
+/* line 46, sass/screen.sass */
 #nav li a {
   font-weight: bold;
   display: block;
@@ -62,62 +63,62 @@ ul#nav {
   -khtml-border-radius: 4px;
   border-radius: 4px;
 }
-/* line 52, sass/screen.sass */
+/* line 53, sass/screen.sass */
 #nav li a:hover {
   color: #db1750;
   background-color: #dbdbdb;
 }
-/* line 55, sass/screen.sass */
+/* line 56, sass/screen.sass */
 #nav li .active {
   background-color: #dbdbdb;
   color: #232323;
 }
 
-/* line 60, sass/screen.sass */
+/* line 61, sass/screen.sass */
 .sidebar p {
   text-align: right;
   font-size: 12px;
   line-height: 14px;
 }
 
-/* line 67, sass/screen.sass */
+/* line 68, sass/screen.sass */
 h1 {
   font-size: 36px;
   line-height: 42px;
 }
 
-/* line 71, sass/screen.sass */
+/* line 72, sass/screen.sass */
 h1, h2, h3, h4, h5 {
   font-family: helvetica, arial, sans-serif;
   font-weight: bold;
 }
 
-/* line 75, sass/screen.sass */
+/* line 76, sass/screen.sass */
 h2 {
   font-size: 24px;
   line-height: 28px;
 }
 
-/* line 79, sass/screen.sass */
+/* line 80, sass/screen.sass */
 h3 {
   font-size: 22px;
   line-height: 21px;
 }
 
-/* line 84, sass/screen.sass */
+/* line 85, sass/screen.sass */
 h4 {
   font-size: 16px;
   margin-bottom: 7px;
   line-height: 21px;
 }
 
-/* line 90, sass/screen.sass */
+/* line 91, sass/screen.sass */
 .post-content {
   margin-bottom: 21px;
   margin-top: 14px;
 }
 
-/* line 93, sass/screen.sass */
+/* line 94, sass/screen.sass */
 .post-details {
   font-size: 10px;
   margin-bottom: 14px;
@@ -125,38 +126,38 @@ h4 {
   color: #545454;
 }
 
-/* line 100, sass/screen.sass */
+/* line 101, sass/screen.sass */
 a:hover {
   color: #db1750;
   text-decoration: none;
 }
 
-/* line 103, sass/screen.sass */
+/* line 104, sass/screen.sass */
 a:active {
   color: #801736;
 }
 
-/* line 107, sass/screen.sass */
+/* line 108, sass/screen.sass */
 .post-listing {
   margin-bottom: 21px;
 }
-/* line 109, sass/screen.sass */
+/* line 110, sass/screen.sass */
 .post-listing p {
   margin-bottom: 0;
 }
-/* line 111, sass/screen.sass */
+/* line 112, sass/screen.sass */
 .post-listing a {
   font-size: 18px;
   font-weight: bold;
   line-height: 21px;
 }
 
-/* line 118, sass/screen.sass */
+/* line 119, sass/screen.sass */
 .manycols {
   clear: left;
 }
 
-/* line 122, sass/screen.sass */
+/* line 123, sass/screen.sass */
 .box {
   background: #dbdbdb;
   -moz-border-radius: 4px;
@@ -166,12 +167,12 @@ a:active {
   -khtml-border-radius: 4px;
   border-radius: 4px;
 }
-/* line 125, sass/screen.sass */
+/* line 126, sass/screen.sass */
 .box p {
   padding: 14px 21px;
 }
 
-/* line 127, sass/screen.sass */
+/* line 128, sass/screen.sass */
 a.linkbox {
   display: block;
   padding: 14px 47px;
@@ -186,51 +187,61 @@ a.linkbox {
   text-decoration: none;
 }
 
-/* line 134, sass/screen.sass */
+/* line 135, sass/screen.sass */
 a.linkbox:hover {
   background: #db1750 url(/images/chrome/out.png) 14px 13px no-repeat;
   color: #232323;
 }
 
 @media only screen and (min-width: 480px) and (max-width: 767px) {
-  /* line 140, sass/screen.sass */
+  /* line 141, sass/screen.sass */
   .sidebar {
     display: none;
   }
 
-  /* line 142, sass/screen.sass */
+  /* line 143, sass/screen.sass */
   #nav li a {
     text-align: left;
   }
 
-  /* line 144, sass/screen.sass */
+  /* line 145, sass/screen.sass */
   #tm_logo {
     float: left;
   }
 
-  /* line 146, sass/screen.sass */
+  /* line 147, sass/screen.sass */
   .deck_container {
     width: 300px;
+  }
+
+  /* line 149, sass/screen.sass */
+  #tmhero {
+    display: none;
   }
 }
 @media only screen and (max-width: 479px) {
-  /* line 150, sass/screen.sass */
+  /* line 153, sass/screen.sass */
   .sidebar {
     display: none;
   }
 
-  /* line 152, sass/screen.sass */
+  /* line 155, sass/screen.sass */
   #nav li a {
     text-align: left;
   }
 
-  /* line 154, sass/screen.sass */
+  /* line 157, sass/screen.sass */
   #tm_logo {
     float: left;
   }
 
-  /* line 156, sass/screen.sass */
+  /* line 159, sass/screen.sass */
   .deck_container {
     width: 300px;
+  }
+
+  /* line 161, sass/screen.sass */
+  #tmhero {
+    display: none;
   }
 }
