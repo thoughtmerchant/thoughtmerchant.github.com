@@ -98,12 +98,26 @@ h2 {
   line-height: 28px;
 }
 
-/* line 80, sass/screen.sass */
-.post-content {
-  margin-bottom: 21px;
+/* line 79, sass/screen.sass */
+h3 {
+  font-size: 22px;
+  line-height: 21px;
 }
 
-/* line 82, sass/screen.sass */
+/* line 84, sass/screen.sass */
+h4 {
+  font-size: 16px;
+  margin-bottom: 7px;
+  line-height: 21px;
+}
+
+/* line 90, sass/screen.sass */
+.post-content {
+  margin-bottom: 21px;
+  margin-top: 14px;
+}
+
+/* line 93, sass/screen.sass */
 .post-details {
   font-size: 10px;
   margin-bottom: 14px;
@@ -111,33 +125,97 @@ h2 {
   color: #545454;
 }
 
-/* line 89, sass/screen.sass */
+/* line 100, sass/screen.sass */
 a:hover {
   color: #db1750;
   text-decoration: none;
 }
 
-/* line 92, sass/screen.sass */
+/* line 103, sass/screen.sass */
 a:active {
   color: #801736;
 }
 
-/* line 96, sass/screen.sass */
+/* line 107, sass/screen.sass */
 .post-listing {
   margin-bottom: 21px;
 }
-/* line 98, sass/screen.sass */
+/* line 109, sass/screen.sass */
 .post-listing p {
   margin-bottom: 0;
 }
-/* line 100, sass/screen.sass */
+/* line 111, sass/screen.sass */
 .post-listing a {
   font-size: 18px;
   font-weight: bold;
   line-height: 21px;
 }
 
-/* line 107, sass/screen.sass */
+/* line 118, sass/screen.sass */
 .manycols {
   clear: left;
+}
+
+/* line 122, sass/screen.sass */
+a.linkbox {
+  display: block;
+  padding: 14px 47px;
+  background: #dbdbdb url(/images/chrome/out.png) 14px 13px no-repeat;
+  -moz-border-radius: 4px;
+  -webkit-border-radius: 4px;
+  -o-border-radius: 4px;
+  -ms-border-radius: 4px;
+  -khtml-border-radius: 4px;
+  border-radius: 4px;
+  margin-bottom: 21px;
+  text-decoration: none;
+}
+
+/* line 129, sass/screen.sass */
+a.linkbox:hover {
+  background: #db1750 url(/images/chrome/out.png) 14px 13px no-repeat;
+  color: #232323;
+}
+
+@media only screen and (min-width: 480px) and (max-width: 767px) {
+  /* line 135, sass/screen.sass */
+  .sidebar {
+    display: none;
+  }
+
+  /* line 137, sass/screen.sass */
+  #nav li a {
+    text-align: left;
+  }
+
+  /* line 139, sass/screen.sass */
+  #tm_logo {
+    float: left;
+  }
+
+  /* line 141, sass/screen.sass */
+  .deck_container {
+    width: 300px;
+  }
+}
+@media only screen and (max-width: 479px) {
+  /* line 145, sass/screen.sass */
+  .sidebar {
+    display: none;
+  }
+
+  /* line 147, sass/screen.sass */
+  #nav li a {
+    text-align: left;
+  }
+
+  /* line 149, sass/screen.sass */
+  #tm_logo {
+    float: left;
+  }
+
+  /* line 151, sass/screen.sass */
+  .deck_container {
+    width: 300px;
+  }
 }

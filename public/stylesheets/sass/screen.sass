@@ -76,9 +76,20 @@ h2
   font-size: 24px
   line-height: 28px
 
+h3
+  font-size: 22px
+  line-height: 21px
+
+
+h4
+  font-size: 16px
+  margin-bottom: 7px
+  line-height: 21px
+
 // ----------- Post Styles
 .post-content
   margin-bottom: 21px
+  margin-top: 14px
 .post-details
   font-size: 10px
   margin-bottom: 14px
@@ -107,3 +118,35 @@ a:active
 .manycols
   clear: left
 
+// ----------- The box
+a.linkbox
+  display: block
+  padding: 14px 47px
+  background: #dbdbdb url(/images/chrome/out.png) 14px 13px no-repeat
+  @include border-radius(4px)
+  margin-bottom: 21px
+  text-decoration: none
+a.linkbox:hover
+  background: #db1750 url(/images/chrome/out.png) 14px 13px no-repeat
+  color: #232323
+
+// ------------ Media Styles
+@media only screen and (min-width: 480px) and (max-width: 767px)
+  .sidebar
+    display: none
+  #nav li a
+    text-align: left
+  #tm_logo
+    float: left
+  .deck_container
+    width: 300px
+
+@media only screen and (max-width: 479px)
+  .sidebar
+    display: none
+  #nav li a
+    text-align: left
+  #tm_logo
+    float: left
+  .deck_container
+    width: 300px
