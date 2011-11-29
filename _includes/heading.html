@@ -8,7 +8,15 @@
   <!-- Basic Page Needs
   ================================================== -->
   <meta charset="utf-8" />
-  <title>{{ page.title }}</title>
+  <title>
+    {% if page.title == 'Thought Merchants' %}
+      {{ page.title }}
+    {% else %}
+      {{ page.title | append:' &#8212; Thought Merchants' }}
+    {% endif %}
+
+
+  </title>
   <meta name="description" content="{{ page.meta }}">
   <meta name="author" content="{{ page.author }}">
   <!--[if lt IE 9]>
