@@ -2,7 +2,7 @@
 layout: post
 title: Unifying Agile and User Experience with Live Style Guides
 author: Steve Berry
-meta: Basic concepts and practices of integrating yourself into an agile rails development team.
+meta: Live style guides are the perfect tool for agile UX teams in rails applications.
 image: /images/talks/live-style-guide.jpg
 ---
 
