@@ -2,24 +2,24 @@
  * In this file you should write your main styles. (or centralize your imports)
  * Import this file using the following HTML or equivalent:
  * <link href="/stylesheets/screen.css" media="screen, projection" rel="stylesheet" type="text/css" /> */
-/* line 10, sass/screen.sass */
+/* line 10, ../sass/screen.sass */
 img {
   margin-bottom: 21px;
   display: block;
 }
 
-/* line 14, sass/screen.sass */
+/* line 14, ../sass/screen.sass */
 body {
   background-color: #f2f2f1;
 }
 
-/* line 18, sass/screen.sass */
+/* line 18, ../sass/screen.sass */
 ul {
   list-style: disc outside none;
   margin: 0 0 21px 28px;
 }
 
-/* line 25, sass/screen.sass */
+/* line 24, ../sass/screen.sass */
 #tm_logo {
   background: url(/images/chrome/tm_logo.png) 0 0 no-repeat;
   height: 35px;
@@ -31,57 +31,56 @@ ul {
   margin-top: 21px;
 }
 
-/* line 35, sass/screen.sass */
+/* line 34, ../sass/screen.sass */
 #secret_header {
   display: table;
   height: 21px;
   clear: both;
 }
 
-/* line 40, sass/screen.sass */
+/* line 39, ../sass/screen.sass */
 ul#nav {
   list-style: none outside none;
   margin: 0 0 21px 0;
 }
 
-/* line 43, sass/screen.sass */
+/* line 42, ../sass/screen.sass */
 #nav li {
   text-align: right;
   margin-bottom: 0;
 }
-/* line 46, sass/screen.sass */
+/* line 45, ../sass/screen.sass */
 #nav li a {
   font-weight: bold;
   display: block;
   color: #555555;
   text-decoration: none;
   padding: 7px;
-  -moz-border-radius: 4px;
   -webkit-border-radius: 4px;
-  -o-border-radius: 4px;
+  -moz-border-radius: 4px;
   -ms-border-radius: 4px;
-  -khtml-border-radius: 4px;
+  -o-border-radius: 4px;
   border-radius: 4px;
 }
-/* line 53, sass/screen.sass */
+/* line 52, ../sass/screen.sass */
 #nav li a:hover {
   color: #db1750;
   background-color: #dbdbdb;
 }
-/* line 56, sass/screen.sass */
+/* line 55, ../sass/screen.sass */
 #nav li .active {
   background-color: #dbdbdb;
   color: #232323;
 }
 
-/* line 61, sass/screen.sass */
+/* line 60, ../sass/screen.sass */
 .sidebar p {
   text-align: right;
   font-size: 12px;
   line-height: 14px;
 }
 
-/* line 66, sass/screen.sass */
+/* line 65, ../sass/screen.sass */
 .reviews {
   background: url(/images/icons/review.png) 0 0 no-repeat;
   height: 42px;
@@ -90,81 +89,81 @@ ul#nav {
   margin-top: 21px;
 }
 
-/* line 73, sass/screen.sass */
+/* line 72, ../sass/screen.sass */
 blockquote {
   overflow: hidden;
   margin-bottom: 21px;
 }
 
-/* line 77, sass/screen.sass */
+/* line 76, ../sass/screen.sass */
 ul.review-list {
   list-style: none;
   margin: 0;
   overflow: hidden;
   margin-bottom: 21px;
 }
-/* line 82, sass/screen.sass */
+/* line 81, ../sass/screen.sass */
 ul.review-list li {
   margin-bottom: 21px;
 }
-/* line 84, sass/screen.sass */
+/* line 83, ../sass/screen.sass */
 ul.review-list li p {
   font-size: 12px;
   line-height: 14px;
   margin-bottom: 0;
 }
-/* line 88, sass/screen.sass */
+/* line 87, ../sass/screen.sass */
 ul.review-list li b {
   font-weight: bold;
   clear: both;
   margin-bottom: 14px;
   display: inline-block;
 }
-/* line 93, sass/screen.sass */
+/* line 92, ../sass/screen.sass */
 ul.review-list li img {
   float: left;
   margin-right: 14px;
   margin-bottom: 0;
 }
 
-/* line 100, sass/screen.sass */
+/* line 99, ../sass/screen.sass */
 h1 {
   font-size: 36px;
   line-height: 42px;
 }
 
-/* line 104, sass/screen.sass */
+/* line 103, ../sass/screen.sass */
 h1, h2, h3, h4, h5 {
   font-family: helvetica, arial, sans-serif;
   font-weight: bold;
 }
 
-/* line 108, sass/screen.sass */
+/* line 107, ../sass/screen.sass */
 h2 {
   font-size: 24px;
   line-height: 28px;
 }
 
-/* line 112, sass/screen.sass */
+/* line 111, ../sass/screen.sass */
 h3 {
   font-size: 22px;
   line-height: 21px;
 }
 
-/* line 117, sass/screen.sass */
+/* line 116, ../sass/screen.sass */
 h4 {
   font-size: 16px;
   margin-bottom: 7px;
   line-height: 21px;
 }
 
-/* line 123, sass/screen.sass */
+/* line 122, ../sass/screen.sass */
 .post-content {
   margin-bottom: 21px;
   margin-top: 14px;
 }
 
-/* line 126, sass/screen.sass */
+/* line 125, ../sass/screen.sass */
 .post-details {
   font-size: 10px;
   margin-bottom: 14px;
@@ -172,133 +171,137 @@ h4 {
   color: #545454;
 }
 
-/* line 133, sass/screen.sass */
+/* line 132, ../sass/screen.sass */
 a:hover {
   color: #db1750;
   text-decoration: none;
 }
 
-/* line 136, sass/screen.sass */
+/* line 135, ../sass/screen.sass */
 a:active {
   color: #801736;
 }
 
-/* line 140, sass/screen.sass */
+/* line 139, ../sass/screen.sass */
 .post-listing {
   margin-bottom: 21px;
 }
-/* line 142, sass/screen.sass */
+/* line 141, ../sass/screen.sass */
 .post-listing p {
   margin-bottom: 0;
 }
-/* line 144, sass/screen.sass */
+/* line 143, ../sass/screen.sass */
 .post-listing a {
   font-size: 18px;
   font-weight: bold;
   line-height: 21px;
 }
 
-/* line 151, sass/screen.sass */
+/* line 150, ../sass/screen.sass */
 .post {
   margin-bottom: 21px;
 }
 
-/* line 153, sass/screen.sass */
+/* line 152, ../sass/screen.sass */
 .divider {
   background: transparent url(/images/chrome/divider.png) top center no-repeat;
   height: 14px;
   margin: 21px 0;
 }
 
-/* line 158, sass/screen.sass */
+/* line 157, ../sass/screen.sass */
 .manycols {
   clear: left;
 }
 
-/* line 162, sass/screen.sass */
+/* line 161, ../sass/screen.sass */
 .box {
   background: #dbdbdb;
-  -moz-border-radius: 4px;
   -webkit-border-radius: 4px;
-  -o-border-radius: 4px;
+  -moz-border-radius: 4px;
   -ms-border-radius: 4px;
-  -khtml-border-radius: 4px;
+  -o-border-radius: 4px;
   border-radius: 4px;
 }
-/* line 165, sass/screen.sass */
+/* line 164, ../sass/screen.sass */
 .box p {
   padding: 14px 21px;
 }
 
-/* line 167, sass/screen.sass */
+/* line 166, ../sass/screen.sass */
 a.linkbox {
   display: block;
   padding: 14px 47px;
   background: #dbdbdb url(/images/chrome/out.png) 14px 13px no-repeat;
-  -moz-border-radius: 4px;
   -webkit-border-radius: 4px;
-  -o-border-radius: 4px;
+  -moz-border-radius: 4px;
   -ms-border-radius: 4px;
-  -khtml-border-radius: 4px;
+  -o-border-radius: 4px;
   border-radius: 4px;
   margin-bottom: 21px;
   text-decoration: none;
 }
 
-/* line 174, sass/screen.sass */
+/* line 173, ../sass/screen.sass */
 a.linkbox:hover {
   background: #db1750 url(/images/chrome/out.png) 14px 13px no-repeat;
   color: #232323;
 }
 
+/* line 177, ../sass/screen.sass */
+.showcase img {
+  margin: 0;
+  float: left;
+}
+
 @media only screen and (min-width: 480px) and (max-width: 767px) {
-  /* line 180, sass/screen.sass */
+  /* line 183, ../sass/screen.sass */
   .sidebar {
     display: none;
   }
 
-  /* line 182, sass/screen.sass */
+  /* line 185, ../sass/screen.sass */
   #nav li a {
     text-align: left;
   }
 
-  /* line 184, sass/screen.sass */
+  /* line 187, ../sass/screen.sass */
   #tm_logo {
     float: left;
   }
 
-  /* line 186, sass/screen.sass */
+  /* line 189, ../sass/screen.sass */
   .deck_container {
     width: 300px;
   }
 
-  /* line 188, sass/screen.sass */
+  /* line 191, ../sass/screen.sass */
   #tmhero {
     display: none;
   }
 }
 @media only screen and (max-width: 479px) {
-  /* line 192, sass/screen.sass */
+  /* line 195, ../sass/screen.sass */
   .sidebar {
     display: none;
   }
 
-  /* line 194, sass/screen.sass */
+  /* line 197, ../sass/screen.sass */
   #nav li a {
     text-align: left;
   }
 
-  /* line 196, sass/screen.sass */
+  /* line 199, ../sass/screen.sass */
   #tm_logo {
     float: left;
   }
 
-  /* line 198, sass/screen.sass */
+  /* line 201, ../sass/screen.sass */
   .deck_container {
     width: 300px;
   }
 
-  /* line 200, sass/screen.sass */
+  /* line 203, ../sass/screen.sass */
   #tmhero {
     display: none;
   }

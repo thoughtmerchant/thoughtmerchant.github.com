@@ -27,10 +27,11 @@
 
   <!-- CSS
   ================================================== -->
-  <link rel="stylesheet" href="/public/stylesheets/base.css">
-  <link rel="stylesheet" href="/public/stylesheets/skeleton.css">
-  <link rel="stylesheet" href="/public/stylesheets/layout.css">
-  <link href="/public/stylesheets/screen.css" media="screen, projection" rel="stylesheet" type="text/css" />
+  <link rel="stylesheet" href="/stylesheets/base.css">
+  <link rel="stylesheet" href="/stylesheets/skeleton.css">
+  <link rel="stylesheet" href="/stylesheets/layout.css">
+  <link rel="stylesheet" href="/stylesheets/mosaic.css">
+  <link href="/stylesheets/screen.css" media="screen, projection" rel="stylesheet" type="text/css" />
 
   <!-- Favicons
   ================================================== -->
@@ -142,6 +143,17 @@ mixpanel.init("b7479982dd00e123eeeefffc19ed1f37");</script><!-- end Mixpanel -->
   <script src="//ajax.googleapis.com/ajax/libs/jquery/1.5.1/jquery.js"></script>
   <script>window.jQuery || document.write("<script src='/javascripts/jquery-1.5.1.min.js'>\x3C/script>")</script>
   <script src="/javascripts/tabs.js"></script>
+  <script src="/javascripts/mosaic.1.0.1.js"></script>
+
+  <script type="text/javascript">
+
+    jQuery(function($){
+      $('.bar').mosaic({
+        animation  :  'slide'
+      });
+      });
+
+  </script>
 
 <!-- End Document
 ================================================== -->

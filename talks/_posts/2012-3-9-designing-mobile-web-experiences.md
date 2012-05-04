@@ -10,6 +10,8 @@ image: /images/talks/mobile-web.png
 
 <a href="http://speakerdeck.com/u/thoughtmerchant/p/designing-mobile-web-experiences" target="blank" class="linkbox">View Slide Deck on SpeakerDeck.com</a>
 
+<img src="/images/talks/presented-at-ga.png" alt="Presented at General Assembly in New York City" class="scale-with-grid"/>
+
 This introductory session is for designers and developers looking to create their first mobile web experience. We will introduce you to many of the tools and tactics you need to create a usable mobile web experience.
 
 First we will start with outlining mobile web as a platform versus app creation. We will cover the basic considerations in creating a mobile web experience, user context, how human factors play into mobile designs, and mobile usability heuristics.

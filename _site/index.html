@@ -27,10 +27,11 @@
 
   <!-- CSS
   ================================================== -->
-  <link rel="stylesheet" href="/public/stylesheets/base.css">
-  <link rel="stylesheet" href="/public/stylesheets/skeleton.css">
-  <link rel="stylesheet" href="/public/stylesheets/layout.css">
-  <link href="/public/stylesheets/screen.css" media="screen, projection" rel="stylesheet" type="text/css" />
+  <link rel="stylesheet" href="/stylesheets/base.css">
+  <link rel="stylesheet" href="/stylesheets/skeleton.css">
+  <link rel="stylesheet" href="/stylesheets/layout.css">
+  <link rel="stylesheet" href="/stylesheets/mosaic.css">
+  <link href="/stylesheets/screen.css" media="screen, projection" rel="stylesheet" type="text/css" />
 
   <!-- Favicons
   ================================================== -->
@@ -99,6 +100,16 @@ mixpanel.init("b7479982dd00e123eeeefffc19ed1f37");</script><!-- end Mixpanel -->
 
 
 <div class="post">
+ <h2><a href="/thoughts/2012/05/04/compound-time.html"> Compound Time Redesign In Progress </a></h2>
+    <p>Below is a quick scaled down image of the new interface design for <a href='http://www.compoundtime.com' target='blank'>compoundtime.com</a>. I am working with Michael Haddad on creating a more refined experience for aspiring musicians.</p>
+<img class='scale-with-grid' src='/images/thoughts/compound-time.png' alt='compound time interface design' />
+<p>Here is a photo of some of the work that goes into refining a logotype.</p>
+<img class='scale-with-grid' src='/images/thoughts/compound-logo.png' alt='compound time logo design sketching' />
+  <div class="divider"></div>
+</div>
+
+
+<div class="post">
  <h2><a href="/identity/2012/03/19/philly-ete.html"> Philly ETE Shirt Logotype </a></h2>
     <img class='scale-with-grid' src='/images/identity/ete/philly-ete-hero.jpg' alt='Philadelphia ETE Shirt Logotype' />
 <p>Below is the front t-shirt design.</p>
@@ -113,7 +124,7 @@ mixpanel.init("b7479982dd00e123eeeefffc19ed1f37");</script><!-- end Mixpanel -->
 
 <div class="post">
  <h2><a href="/talks/2012/03/09/designing-mobile-web-experiences.html"> Designing Mobile Web Experiences </a></h2>
-    <img class='scale-with-grid' src='/images/talks/mobile-web.png' alt=' Designing Mobile Web Experiences' /><a href='http://speakerdeck.com/u/thoughtmerchant/p/designing-mobile-web-experiences' class='linkbox' target='blank'>View Slide Deck on SpeakerDeck.com</a>
+    <img class='scale-with-grid' src='/images/talks/mobile-web.png' alt=' Designing Mobile Web Experiences' /><a href='http://speakerdeck.com/u/thoughtmerchant/p/designing-mobile-web-experiences' class='linkbox' target='blank'>View Slide Deck on SpeakerDeck.com</a><img class='scale-with-grid' src='/images/talks/presented-at-ga.png' alt='Presented at General Assembly in New York City' />
 <p>This introductory session is for designers and developers looking to create their first mobile web experience. We will introduce you to many of the tools and tactics you need to create a usable mobile web experience.</p>
 
 <p>First we will start with outlining mobile web as a platform versus app creation. We will cover the basic considerations in creating a mobile web experience, user context, how human factors play into mobile designs, and mobile usability heuristics.</p>
@@ -171,16 +182,6 @@ mixpanel.init("b7479982dd00e123eeeefffc19ed1f37");</script><!-- end Mixpanel -->
 </div>
 
 
-<div class="post">
- <h2><a href="/thoughts/2012/01/15/reed-wall-composition.html"> Reed Wall Composition </a></h2>
-    <p>It has been quite some time since I have posted some really original art on my blog. I made this for Shannon Reed&#8217;s apartment, and it is quite amazing.</p>
-<img class='scale-with-grid' src='/images/content/reed-heart.jpg' alt='reed heart' />
-<p>This artwork comprises of over 30 different layers of photography and illustration. It is printed at 28 inches by 28 inches on satin paper. The piece is composed of vector line art, photos of abstract landscapes, wood textures, ink in water photographs, then reflected on itself.</p>
-<img class='scale-with-grid' src='/images/content/reed-image.jpg' alt='reed heart image mounted' /><img class='scale-with-grid' src='/images/content/reed-center.jpg' alt='reed heart center design' /><img class='scale-with-grid' src='/images/content/reed-right.jpg' alt='reed heart right design' /><img class='scale-with-grid' src='/images/content/reed-bottom.jpg' alt='reed heart bottom design' />
-  <div class="divider"></div>
-</div>
-
-
 
 
 </div>
@@ -192,6 +193,17 @@ mixpanel.init("b7479982dd00e123eeeefffc19ed1f37");</script><!-- end Mixpanel -->
   <script src="//ajax.googleapis.com/ajax/libs/jquery/1.5.1/jquery.js"></script>
   <script>window.jQuery || document.write("<script src='/javascripts/jquery-1.5.1.min.js'>\x3C/script>")</script>
   <script src="/javascripts/tabs.js"></script>
+  <script src="/javascripts/mosaic.1.0.1.js"></script>
+
+  <script type="text/javascript">
+
+    jQuery(function($){
+      $('.bar').mosaic({
+        animation  :  'slide'
+      });
+      });
+
+  </script>
 
 <!-- End Document
 ================================================== -->
