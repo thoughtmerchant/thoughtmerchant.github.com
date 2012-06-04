@@ -6,10 +6,10 @@ meta: Heuristics for building better web experiences.
 image: /images/talks/sass-compass.jpg
 ---
 
-<img src="/images/talks/sass-compass.jpg" alt="Live style guide" class="scale-with-grid"/>
+<img src="/images/talks/sass-compass.jpg" alt="SASS and compass for live style guides" class="scale-with-grid"/>
 
 <a href="https://speakerdeck.com/u/thoughtmerchant/p/leveraging-sass-compass-to-create-style-guides" target="blank" class="linkbox">View Slide Deck on SpeakerDeck.com</a>
-<a href="http://www.youtube.com/watch?v=3Zf861PI-0E&feature=youtu.be" target="blank" class="linkbox">View Video at YouTube.com</a>
+<a href="http://www.youtube.com/watch?v=3Zf861PI-0E&feature=youtu.be" target="blank" class="linkbox">View Video on YouTube.com</a>
 
 I recently gave a talk at the
 <a href="http://www.meetup.com/nyc-sass" target="blank">New York SASS &amp; Compass Meetup</a> with a fellow front-end enthusiast Jackie Balzer. Here is the talk description:
@@ -22,6 +22,8 @@ I recently gave a talk at the
 <p>They will each present for 30-45 minutes and there will be a 5 minute lightening talk on new killer new feature, silent extends.</p>
 <p>If you are new to Sass or need any help, please feel free to come early (6:40) and we'll do our best to help answer your questions or get you up and running. We will start around 7:15 to give time for train snafus or that final git push before you skedaddle from work. Come at 7pm for drinks and snacks and to connect with NYC #teamSass.</p>
 </blockquote>
+
+<img src="/images/talks/sass-view.png" alt="a photo from the live broadcast" class="scale-with-grid"/>
 
 We had an awesome group show up, as we had a good Q+A session after the presentation. Thanks for coming out!
 
