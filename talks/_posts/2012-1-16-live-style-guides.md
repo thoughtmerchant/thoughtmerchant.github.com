@@ -43,12 +43,6 @@ image: /images/talks/live-style-guide.jpg
     <img src="/images/talks/giff.png" alt="Giff Constable"/>
     <p><b>Giff Constable</b><br/>Good topic + speakers did a good job talking at the high level and also drilling into practical specifics.</p>
   </li>
-
-
-  <li></li>
-  <li></li>
-  <li></li>
-
 </ul>
 
 ####Over 100 people attended the talk!
