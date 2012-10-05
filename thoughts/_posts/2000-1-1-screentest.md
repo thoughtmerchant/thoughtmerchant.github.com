@@ -12,4 +12,4 @@ image: /images/thoughts/workstation-survey.png
 
 <a href="http://thoughtmerchants.wufoo.com/forms/iex-computer-workstation-survey/" target="blank" class="linkbox">Take Online Survey</a>
 
-By filling out the very short survey, we will have a better idea of who we are building the application for.
+As you have probably already heard, we are building new tools to help streamline your workflows. By filling out the very short survey, we will have a better idea of who we are building the application for.
