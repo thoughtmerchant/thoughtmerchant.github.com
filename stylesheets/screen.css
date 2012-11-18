@@ -1,25 +1,21 @@
-/* Welcome to Compass.
- * In this file you should write your main styles. (or centralize your imports)
- * Import this file using the following HTML or equivalent:
- * <link href="/stylesheets/screen.css" media="screen, projection" rel="stylesheet" type="text/css" /> */
-/* line 10, ../sass/screen.sass */
+/* line 4, ../sass/screen.sass */
 img {
   margin-bottom: 21px;
   display: block;
 }
 
-/* line 14, ../sass/screen.sass */
+/* line 8, ../sass/screen.sass */
 body {
   background-color: #f2f2f1;
 }
 
-/* line 18, ../sass/screen.sass */
+/* line 12, ../sass/screen.sass */
 ul {
   list-style: disc outside none;
   margin: 0 0 21px 28px;
 }
 
-/* line 24, ../sass/screen.sass */
+/* line 18, ../sass/screen.sass */
 #tm_logo {
   background: url(/images/chrome/tm_logo.png) 0 0 no-repeat;
   height: 35px;
@@ -31,29 +27,29 @@ ul {
   margin-top: 21px;
 }
 
-/* line 34, ../sass/screen.sass */
+/* line 28, ../sass/screen.sass */
 #secret_header {
   display: table;
   height: 21px;
   clear: both;
 }
 
-/* line 39, ../sass/screen.sass */
+/* line 33, ../sass/screen.sass */
 ul#nav {
   list-style: none outside none;
   margin: 0 0 21px 0;
 }
 
-/* line 42, ../sass/screen.sass */
+/* line 36, ../sass/screen.sass */
 #nav li {
   text-align: right;
   margin-bottom: 0;
 }
-/* line 45, ../sass/screen.sass */
+/* line 39, ../sass/screen.sass */
 #nav li a {
   font-weight: bold;
   display: block;
-  color: #555555;
+  color: #db1750;
   text-decoration: none;
   padding: 7px;
   -webkit-border-radius: 4px;
@@ -62,25 +58,25 @@ ul#nav {
   -o-border-radius: 4px;
   border-radius: 4px;
 }
-/* line 52, ../sass/screen.sass */
+/* line 46, ../sass/screen.sass */
 #nav li a:hover {
   color: #db1750;
   background-color: #dbdbdb;
 }
-/* line 55, ../sass/screen.sass */
+/* line 49, ../sass/screen.sass */
 #nav li .active {
   background-color: #dbdbdb;
-  color: #232323;
+  color: #db1750;
 }
 
-/* line 60, ../sass/screen.sass */
+/* line 54, ../sass/screen.sass */
 .sidebar p {
   text-align: right;
   font-size: 12px;
   line-height: 14px;
 }
 
-/* line 65, ../sass/screen.sass */
+/* line 59, ../sass/screen.sass */
 .reviews {
   background: url(/images/icons/review.png) 0 0 no-repeat;
   height: 42px;
@@ -89,81 +85,81 @@ ul#nav {
   margin-top: 21px;
 }
 
-/* line 72, ../sass/screen.sass */
+/* line 66, ../sass/screen.sass */
 blockquote {
   overflow: hidden;
   margin-bottom: 21px;
 }
 
-/* line 76, ../sass/screen.sass */
+/* line 70, ../sass/screen.sass */
 ul.review-list {
   list-style: none;
   margin: 0;
   overflow: hidden;
   margin-bottom: 21px;
 }
-/* line 81, ../sass/screen.sass */
+/* line 75, ../sass/screen.sass */
 ul.review-list li {
   margin-bottom: 21px;
 }
-/* line 83, ../sass/screen.sass */
+/* line 77, ../sass/screen.sass */
 ul.review-list li p {
   font-size: 12px;
   line-height: 14px;
   margin-bottom: 0;
 }
-/* line 87, ../sass/screen.sass */
+/* line 81, ../sass/screen.sass */
 ul.review-list li b {
   font-weight: bold;
   clear: both;
   margin-bottom: 14px;
   display: inline-block;
 }
-/* line 92, ../sass/screen.sass */
+/* line 86, ../sass/screen.sass */
 ul.review-list li img {
   float: left;
   margin-right: 14px;
   margin-bottom: 0;
 }
 
-/* line 99, ../sass/screen.sass */
+/* line 93, ../sass/screen.sass */
 h1 {
   font-size: 36px;
   line-height: 42px;
 }
 
-/* line 103, ../sass/screen.sass */
+/* line 97, ../sass/screen.sass */
 h1, h2, h3, h4, h5 {
   font-family: helvetica, arial, sans-serif;
   font-weight: bold;
 }
 
-/* line 107, ../sass/screen.sass */
+/* line 101, ../sass/screen.sass */
 h2 {
   font-size: 24px;
   line-height: 28px;
 }
 
-/* line 111, ../sass/screen.sass */
+/* line 105, ../sass/screen.sass */
 h3 {
   font-size: 22px;
   line-height: 21px;
 }
 
-/* line 116, ../sass/screen.sass */
+/* line 110, ../sass/screen.sass */
 h4 {
   font-size: 16px;
   margin-bottom: 7px;
   line-height: 21px;
 }
 
-/* line 122, ../sass/screen.sass */
+/* line 116, ../sass/screen.sass */
 .post-content {
   margin-bottom: 21px;
   margin-top: 14px;
 }
 
-/* line 125, ../sass/screen.sass */
+/* line 119, ../sass/screen.sass */
 .post-details {
   font-size: 10px;
   margin-bottom: 14px;
@@ -171,50 +167,50 @@ h4 {
   color: #545454;
 }
 
-/* line 132, ../sass/screen.sass */
+/* line 126, ../sass/screen.sass */
 a:hover {
   color: #db1750;
   text-decoration: none;
 }
 
-/* line 135, ../sass/screen.sass */
+/* line 129, ../sass/screen.sass */
 a:active {
   color: #801736;
 }
 
-/* line 139, ../sass/screen.sass */
+/* line 133, ../sass/screen.sass */
 .post-listing {
   margin-bottom: 21px;
 }
-/* line 141, ../sass/screen.sass */
+/* line 135, ../sass/screen.sass */
 .post-listing p {
   margin-bottom: 0;
 }
-/* line 143, ../sass/screen.sass */
+/* line 137, ../sass/screen.sass */
 .post-listing a {
   font-size: 18px;
   font-weight: bold;
   line-height: 21px;
 }
 
-/* line 150, ../sass/screen.sass */
+/* line 144, ../sass/screen.sass */
 .post {
   margin-bottom: 21px;
 }
 
-/* line 152, ../sass/screen.sass */
+/* line 146, ../sass/screen.sass */
 .divider {
   background: transparent url(/images/chrome/divider.png) top center no-repeat;
   height: 14px;
   margin: 21px 0;
 }
 
-/* line 157, ../sass/screen.sass */
+/* line 151, ../sass/screen.sass */
 .manycols {
   clear: left;
 }
 
-/* line 161, ../sass/screen.sass */
+/* line 155, ../sass/screen.sass */
 .box {
   background: #dbdbdb;
   -webkit-border-radius: 4px;
@@ -223,12 +219,12 @@ a:active {
   -o-border-radius: 4px;
   border-radius: 4px;
 }
-/* line 164, ../sass/screen.sass */
+/* line 158, ../sass/screen.sass */
 .box p {
   padding: 14px 21px;
 }
 
-/* line 166, ../sass/screen.sass */
+/* line 160, ../sass/screen.sass */
 a.linkbox {
   display: block;
   padding: 14px 47px;
@@ -242,66 +238,66 @@ a.linkbox {
   text-decoration: none;
 }
 
-/* line 173, ../sass/screen.sass */
+/* line 167, ../sass/screen.sass */
 a.linkbox:hover {
   background: #db1750 url(/images/chrome/out.png) 14px 13px no-repeat;
   color: #232323;
 }
 
-/* line 177, ../sass/screen.sass */
+/* line 171, ../sass/screen.sass */
 .showcase img {
   margin: 0;
   float: left;
 }
 
 @media only screen and (min-width: 480px) and (max-width: 767px) {
-  /* line 183, ../sass/screen.sass */
+  /* line 177, ../sass/screen.sass */
   .sidebar {
     display: none;
   }
 
-  /* line 185, ../sass/screen.sass */
+  /* line 179, ../sass/screen.sass */
   #nav li a {
     text-align: left;
   }
 
-  /* line 187, ../sass/screen.sass */
+  /* line 181, ../sass/screen.sass */
   #tm_logo {
     float: left;
   }
 
-  /* line 189, ../sass/screen.sass */
+  /* line 183, ../sass/screen.sass */
   .deck_container {
     width: 300px;
   }
 
-  /* line 191, ../sass/screen.sass */
+  /* line 185, ../sass/screen.sass */
   #tmhero {
     display: none;
   }
 }
 @media only screen and (max-width: 479px) {
-  /* line 195, ../sass/screen.sass */
+  /* line 189, ../sass/screen.sass */
   .sidebar {
     display: none;
   }
 
-  /* line 197, ../sass/screen.sass */
+  /* line 191, ../sass/screen.sass */
   #nav li a {
     text-align: left;
   }
 
-  /* line 199, ../sass/screen.sass */
+  /* line 193, ../sass/screen.sass */
   #tm_logo {
     float: left;
   }
 
-  /* line 201, ../sass/screen.sass */
+  /* line 195, ../sass/screen.sass */
   .deck_container {
     width: 300px;
   }
 
-  /* line 203, ../sass/screen.sass */
+  /* line 197, ../sass/screen.sass */
   #tmhero {
     display: none;
   }
