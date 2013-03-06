@@ -2,7 +2,7 @@
 layout: post
 title: Monetate Feature Blitz
 author: Steve Berry
-meta: Continuing application desing through 3 years...
+meta: Continuing application design through 3 years...
 image: /images/thoughts/monetate.png
 ---
 
