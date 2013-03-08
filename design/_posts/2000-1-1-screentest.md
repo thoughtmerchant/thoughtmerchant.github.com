@@ -8,7 +8,7 @@ image: /images/thoughts/workstation-survey.png
 
 <img src="/images/thoughts/workstation-survey.png" alt="Workstation Surveys" class="scale-with-grid"/>
 
-<h2>Hello IEX International Cooperators! Please take the <a href="http://thoughtmerchants.wufoo.com/forms/iex-computer-workstation-survey/" target="blank">online survey</a>.</h2>
+<h2>Hello IEX Cooperators! Please take the <a href="http://thoughtmerchants.wufoo.com/forms/iex-computer-workstation-survey/" target="blank">online survey</a>.</h2>
 
 <a href="http://thoughtmerchants.wufoo.com/forms/iex-computer-workstation-survey/" target="blank" class="linkbox">Take Online Survey</a>
 
