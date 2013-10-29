@@ -1,0 +1,84 @@
+<!DOCTYPE html><!--[if lt IE 7]><html class="no-js lt-ie10 lt-ie9 lt-ie8 lt-ie7"><![endif]--><!--[if IE 7]><html class="no-js lt-ie10 lt-ie9 lt-ie8"><![endif]--><!--[if IE 8]><html class="no-js lt-ie10 lt-ie9"><![endif]--><!--[if IE 9]><html class="no-js lt-ie10"><![endif]--><!--[if (gt IE 9)|!(IE)]<!--><html class="nojs"><!--<![endif]--><head><meta charset="utf-8"><meta content="IE=edge" http-equiv="X-UA-Compatible"><title>Thought Merchants</title><meta content="" name="description"><meta content="width=device-width, initial-scale=1" name="viewport"><script src="http://fast.fonts.com/jsapi/edec30bf-ea7f-4448-84fc-465fc19fad0f.js" type="text/javascript"></script><link href="/images/favicon.ico" rel="shortcut icon"><link href="/images/apple-touch-icon.png" rel="apple-touch-icon"><link href="/images/apple-touch-icon-72x72.png" rel="apple-touch-icon" sizes="72x72"><link href="/images/apple-touch-icon-114x114.png" rel="apple-touch-icon" sizes="114x114"><script src="http://code.jquery.com/jquery-2.0.3.min.js" type="text/javascript"></script><script src="/javascripts/vendor/jquery.text.fadeto.js"></script><link href="stylesheets/app-55f8f28b.css" media="screen" rel="stylesheet" type="text/css" /><script src="javascripts/vendor/modernizr-2.x-1095e687.js" type="text/javascript"></script></head><body><!--[if lte IE 7]><p class="browsehappy">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> to improve your experience.</p><![endif]--><header><a href="/" id="tm_logo">Thought Merchants</a><nav><ul><li><a href="/talks">Talks</a></li><li><a href="/work">Work</a></li><li><a href="/thoughts">Thoughts</a></li><li><a href="/about">About</a></li></ul></nav></header><?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Blog Name</title>
+  <subtitle>Blog subtitle</subtitle>
+  <id>http://blog.url.com/</id>
+  <link href="http://blog.url.com/"/>
+  <link href="http://blog.url.com/feed.xml" rel="self"/>
+  <updated>2013-10-08T04:00:00Z</updated>
+  <author>
+    <name>Blog Author</name>
+  </author>
+  <entry>
+    <title>Deal With It</title>
+    <link rel="alternate" href="/thoughts/2013/deal-with-it/"/>
+    <id>/thoughts/2013/deal-with-it/</id>
+    <published>2013-10-08T04:00:00Z</published>
+    <updated>2013-10-08T04:00:00Z</updated>
+    <author>
+      <name>Article Author</name>
+    </author>
+    <content type="html">&lt;section&gt;&lt;blockquote&gt;&lt;p&gt;“Deal With It” is an expression used as a retort in response to someone’s disapproval. It is often associated with image macros and animated GIFs in which the subject wears a pair of sunglasses.&lt;/p&gt;&lt;cite&gt;- www.knowyourmeme.com&lt;/cite&gt;&lt;/blockquote&gt;&lt;figure&gt;&lt;img alt="deal with it Seattle" src="/images/deal/deal-with-it-seattle-poster.jpg"&gt;&lt;figcaption&gt;Deal with it Seattle poster lady.&lt;/figcaption&gt;&lt;/figure&gt;&lt;figure&gt;&lt;img alt="deal with it bathroom" src="/images/deal/deal-with-it-bathroom.jpg"&gt;&lt;figcaption&gt;Deal with it dirty bathroom wall.&lt;/figcaption&gt;&lt;/figure&gt;&lt;figure&gt;&lt;img alt="deal with it cement" src="/images/deal/deal-with-it-cement.jpg"&gt;&lt;figcaption&gt;Deal with it cement wall.&lt;/figcaption&gt;&lt;/figure&gt;&lt;figure&gt;&lt;img alt="deal with it fancy guy" src="/images/deal/deal-with-it-fancy-guy.jpg"&gt;&lt;figcaption&gt;Deal with it fancy guy.&lt;/figcaption&gt;&lt;/figure&gt;&lt;figure&gt;&lt;img alt="deal with it ice machine" src="/images/deal/deal-with-it-ice-machine.jpg"&gt;&lt;figcaption&gt;Deal with it ice machine in Vermont. You should chill out.&lt;/figcaption&gt;&lt;/figure&gt;&lt;figure&gt;&lt;img alt="deal with it post" src="/images/deal/deal-with-it-post.jpg"&gt;&lt;figcaption&gt;Deal with it post.&lt;/figcaption&gt;&lt;/figure&gt;&lt;figure&gt;&lt;img alt="deal with it winter" src="/images/deal/deal-with-it-winter.jpg"&gt;&lt;figcaption&gt;Deal with it winter. I mean it.&lt;/figcaption&gt;&lt;/figure&gt;&lt;figure&gt;&lt;img alt="deal with it fashion" src="/images/deal/deal-with-it-fashion.jpg"&gt;&lt;/figure&gt;&lt;figure&gt;&lt;img alt="deal with it llama" src="/images/deal/deal-with-it-llama.jpg"&gt;&lt;figcaption&gt;Deal with it llama.&lt;/figcaption&gt;&lt;/figure&gt;&lt;figure&gt;&lt;img alt="deal with it punk" src="/images/deal/deal-with-it-punk.jpg"&gt;&lt;/figure&gt;&lt;figure&gt;&lt;img alt="deal with it towel machine" src="/images/deal/deal-with-it-towel-machine.jpg"&gt;&lt;/figure&gt;&lt;figure&gt;&lt;img alt="deal with it skeleton" src="/images/deal/deal-with-it-skeleton.jpg"&gt;&lt;/figure&gt;&lt;/section&gt;</content>
+  </entry>
+  <entry>
+    <title>Post-It Portraits</title>
+    <link rel="alternate" href="/thoughts/2012/portraits/"/>
+    <id>/thoughts/2012/portraits/</id>
+    <published>2012-11-10T05:00:00Z</published>
+    <updated>2012-11-10T05:00:00Z</updated>
+    <author>
+      <name>Article Author</name>
+    </author>
+    <content type="html">&lt;section&gt;&lt;p&gt;&lt;/p&gt;The &lt;a href="http://visualized.com"&gt;Visualized Conference&lt;/a&gt; had a great after-party where they had large blank boards, encouraging designers to collaborate during the party. Well I could not help myself. There were lots of really interesting looking people at the event, so a few of us started drawing portraits of the gallery patrons on tiny Post-It Notes. &lt;figure&gt;&lt;img alt="Drawing people using tiny post-it notes." src="/images/thoughts/postit.png"&gt;&lt;/figure&gt;&lt;img alt="patrons taking photos of our designs" src="/images/thoughts/postit2.png"&gt;&lt;img alt="close up of the illustrations arranged on a board" src="/images/thoughts/postit3.png"&gt;&lt;img alt="post it portraits illustrations" src="/images/thoughts/postit-portraits.png"&gt;&lt;img alt="visualized conference at the NY times center" src="/images/thoughts/visualized.png"&gt;&lt;p&gt;Earlier in the day, at the Times Center.&lt;/p&gt;&lt;/section&gt;</content>
+  </entry>
+  <entry>
+    <title>GORUCO 2012</title>
+    <link rel="alternate" href="/thoughts/2012/goruco/"/>
+    <id>/thoughts/2012/goruco/</id>
+    <published>2012-08-17T04:00:00Z</published>
+    <updated>2012-08-17T04:00:00Z</updated>
+    <author>
+      <name>Article Author</name>
+    </author>
+    <content type="html">&lt;section&gt;&lt;p&gt;Each year I have been in NYC I have helped organize &lt;a href="http://goruco.com"&gt;GORUCO Ruby conference&lt;/a&gt;. 2012 was a really special year for us since we changed venues and doubled the size of the conference. We bring over 250 people from all over the United States and abroad to hear talks from the most talented Rubyists in the world. &lt;/p&gt;&lt;p&gt;My primary responsiblity each year is to brand the event in addition to the usual logics that are involved in putting a conference together. Below are some photos from the event:&lt;/p&gt;&lt;img alt="goruco 2012" src="/images/design/goruco/goruco-2012.jpg"&gt;&lt;img alt="goruco 2012 shirt design" src="/images/design/goruco/goruco-shirt-design.jpg"&gt;&lt;img alt="goruco 2012 branding stickers" src="/images/design/goruco/goruco-branding.jpg"&gt;&lt;img alt="goruco 2012 shirt" src="/images/design/goruco/goruco-shirt.jpg"&gt;&lt;img alt="goruco 2012 crowd" src="/images/design/goruco/goruco-crowd.jpg"&gt;&lt;img alt="goruco 2012 stage" src="/images/design/goruco/goruco-stage.jpg"&gt;&lt;img alt="goruco 2012 talk" src="/images/design/goruco/goruco-talk.jpg"&gt;&lt;img alt="goruco 2012 talk" src="/images/design/goruco/talk2.jpg"&gt;&lt;h2&gt;After-Party on a Yacht&lt;/h2&gt;&lt;p&gt;GORUCO has a tradition of going on a boat circling Manhattan. Below are a few photos from the after-party.&lt;/p&gt;&lt;img alt="goruco 2012 boat party" src="/images/design/goruco/goruco-boat.jpg"&gt;&lt;p&gt;The amazing view from the yacht.&lt;/p&gt;&lt;img alt="statue of liberty as seen from the after-party" src="/images/design/goruco/statue.jpg"&gt;&lt;p&gt;The yacht passed right by the Statue of Liberty during our cruise.&lt;/p&gt;&lt;img alt="goruco 2012 organizers" src="/images/design/goruco/goruco-organizers.jpg"&gt;&lt;p&gt;A great photo of all of the conference organizers.&lt;/p&gt;&lt;/section&gt;</content>
+  </entry>
+  <entry>
+    <title>Philly ETE Shirt Logotype</title>
+    <link rel="alternate" href="/thoughts/2012/philly-ete/"/>
+    <id>/thoughts/2012/philly-ete/</id>
+    <published>2012-03-19T04:00:00Z</published>
+    <updated>2012-03-19T04:00:00Z</updated>
+    <author>
+      <name>Article Author</name>
+    </author>
+    <content type="html">&lt;section&gt;&lt;figure&gt;&lt;img alt="Philadelphia ETE Shirt Logotype" src="/images/identity/ete/philly-ete-hero.jpg"&gt;&lt;figcaption&gt;Final Philly ETE Logotype&lt;/figcaption&gt;&lt;/figure&gt;&lt;figure&gt;&lt;img alt="design iterations animation" src="/images/work/timelapse/ete2012.gif"&gt;&lt;figcaption&gt;Design iterations from concept to completion.&lt;/figcaption&gt;&lt;/figure&gt;&lt;p&gt;Pennsylvania is for workers and builders. Look at a map you’ll see it: cities with names like “Effort”, “Mechanicsville”, and “Fearnot.” It’s the birthplace of bifocals, bubble gum, and (most importantly) the slinky.&lt;/p&gt;&lt;p&gt;I grew up in in Collegeville, PA so I was thrilled when Tracey Welson-Rossman, CMO of Chariot Solutions, approached me to design the logotype for the 2012 “Emerging Technologies for the Enterprise” conference.&lt;/p&gt;&lt;p&gt;ETE is “curated by developers for developers and IT Executives.” It’s a place where creators of languages and frameworks connect with professionals who build their businesses on those technologies. The conference is uniquely Pennsylvanian, with a history of pragmatic innovation.&lt;/p&gt;&lt;h2&gt;The logotype had to:&lt;/h2&gt;&lt;ul&gt;&lt;li&gt;Reinforce Pennsylvania’s history of work ethic and craftsmanship.&lt;/li&gt;&lt;li&gt;Demonstrate that today’s tech work is an extension of that history.&lt;/li&gt;&lt;li&gt;Showcase ETE’s role as a staple of that tech work.&lt;/li&gt;&lt;/ul&gt;&lt;h2&gt;Influences&lt;/h2&gt;&lt;p&gt;In early design iterations I explored the Art Deco aesthetic. There’s a connection between Art Deco and America’s most ambitious engineering projects. It’s the language of the Hoover Dam, the Chrysler Building, and Rockefeller Center. With its strong lines and heavy symbolism, Art Deco bridges classical timelessness and the machine age. It reflects Pennsylvania’s history and ETE’s relationship with industry.&lt;/p&gt;&lt;figure&gt;&lt;img alt="Chrysler building" src="/images/work/crys.jpg"&gt;&lt;figcaption&gt;Chrysler Building - An ideal example of art deco style.&lt;/figcaption&gt;&lt;/figure&gt;&lt;p&gt;I’m also interested in the seals of organized labor unions. With their symbolism and rigid geometry, seals suggest strength and the control of natural elements. They underscore the people who build today’s technical infrastructure and the Keystone’s State’s work ethic - all at the core of Philly ETE.&lt;/p&gt;&lt;h2&gt;Keystone: it’s not just a shitty beer.&lt;/h2&gt;&lt;p&gt;It’s the stone at the top of the building’s arch that supports its weight. It has an archetypal association with building. Placing the keystone at the top of the circle, and “ETE” inside it sends the message: “ETE is central to Pennsylvania’s tech culture and that culture anchors the entire structure.” It’s tight geometry lends itself to the Art Deco aesthetic.&lt;/p&gt;&lt;p&gt;The radial flares around the logotype demonstrates contained energy. Their spacing invites comparison to gears - a nod to Pennsylvania’s industriousness and the conference’s sense of community.&lt;/p&gt;&lt;p&gt;Art Deco represents ambitious building, work ethic, craftsmanship, and innovation. The keystone-capped circle reinforces durability, heft, and substance. Those values are shared by ETE, its attendees, and Pennsylvania. That’s what makes ETE such a unique conference. Its organizers’ and attendees’ values are in the essence of its host city and state.&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;figure&gt;&lt;img alt="Philadelphia ETE Shirt front design" src="/images/identity/ete/ete-shirt-shirt.jpg"&gt;&lt;figcaption&gt;Front of the ETE shirt.&lt;/figcaption&gt;&lt;/figure&gt;&lt;img alt="Philadelphia ETE Shirt design back" src="/images/identity/ete/philly-ete-shirt-back.jpg"&gt;&lt;img alt="Philly ETE logotype design crop" src="/images/identity/ete/philly-ete-crop.jpg"&gt;&lt;img alt="Philly ETE logotype design details" src="/images/identity/ete/philly-ete-crop2.jpg"&gt;&lt;/section&gt;</content>
+  </entry>
+  <entry>
+    <title>Reed Wall Composition</title>
+    <link rel="alternate" href="/thoughts/2012/reed-wall-composition/"/>
+    <id>/thoughts/2012/reed-wall-composition/</id>
+    <published>2012-01-15T05:00:00Z</published>
+    <updated>2012-01-15T05:00:00Z</updated>
+    <author>
+      <name>Article Author</name>
+    </author>
+    <content type="html">&lt;section&gt;&lt;p&gt;It has been quite some time since I have posted some really original art on my blog. I made this for Shannon Reed's apartment, and it is quite amazing.&lt;/p&gt;&lt;img alt="reed heart" src="/images/content/reed-heart.jpg"&gt;&lt;p&gt;This artwork comprises of over 30 different layers of photography and illustration. It is printed at 28 inches by 28 inches on satin paper. The piece is composed of vector line art, photos of abstract landscapes, wood textures, ink in water photographs, then reflected on itself.&lt;/p&gt;&lt;img alt="reed heart image mounted" src="/images/content/reed-image.jpg"&gt;&lt;img alt="reed heart center design" src="/images/content/reed-center.jpg"&gt;&lt;img alt="reed heart right design" src="/images/content/reed-right.jpg"&gt;&lt;img alt="reed heart bottom design" src="/images/content/reed-bottom.jpg"&gt;&lt;/section&gt;</content>
+  </entry>
+  <entry>
+    <title>OWS Badge</title>
+    <link rel="alternate" href="/thoughts/2011/occupy-wall-street/"/>
+    <id>/thoughts/2011/occupy-wall-street/</id>
+    <published>2011-11-28T05:00:00Z</published>
+    <updated>2011-11-28T05:00:00Z</updated>
+    <author>
+      <name>Article Author</name>
+    </author>
+    <content type="html">&lt;section&gt;&lt;p&gt;The Occupy Wall Street movement is very close to home. Literally, they protest 3 blocks away from where I live in Manhattan. After a conversation with a friend, I started doing some designs for a potential logo or sticker. More of a fun thought experiment more than anything.&lt;/p&gt;&lt;img alt="occupy wall street badge" src="/images/thoughts/owsBadge.jpg"&gt;&lt;p&gt;Tents have become the signature shape for many of the protests around the world. Not because of choice, but out of necessity. The protesters live in tents. Well the triangle is a simple shape, and also the shape for change (delta). So I started with that as a good starting point.&lt;/p&gt;&lt;p&gt;Next was what font to use. Easy choice - I love Futura. Anytime I get to work with Futura, I jump on the chance. Futura is based off of the circle, which is a lovely complement to the triangle.&lt;/p&gt;&lt;p&gt;To broadcast the existence of an OWS protest campsite, one could imaging hooking up a kite, with little triangles taped to the rope. A very subtle, yet effective statement that change is in the air.&lt;/p&gt;&lt;img alt="occupy wall street kite diagram" src="/images/thoughts/owsDiagram.jpg"&gt;&lt;h2&gt;Sticker Concept&lt;/h2&gt;&lt;p&gt;This photoshopped preview does not look that good. The real sticker should be die-cut.&lt;/p&gt;&lt;img alt="occupy wall street sticker on sign" src="/images/thoughts/owsSign.jpg"&gt;&lt;h2&gt;Raw Conceptualization of Logotype&lt;/h2&gt;&lt;img alt="occupy wall street logotype design ideas and exploration" src="/images/thoughts/owsPanel.jpg"&gt;&lt;h2&gt;Alternate Logotype Concept&lt;/h2&gt;&lt;img alt="occupy wall street alternate logotype concept" src="/images/thoughts/ownAlt.jpg"&gt;&lt;/section&gt;</content>
+  </entry>
+</feed>
+<footer><p><a href="mailto:steve@thoughtmerchants.com">steve@thoughtmerchants.com</a><br><a href="http://twitter.com/thoughtmerchant">@thoughtmerchant</a><br><a href="/thoughts/2012/reed-wall-composition/" id="heart"><span class="icon-heart"></span></a></p></footer><script src="javascripts/app-72ed6b47.js" type="text/javascript"></script><script type="text/javascript">(function(b,o,i,l,e,r){b.GoogleAnalyticsObject=l;b[l]||(b[l]=
+function(){(b[l].q=b[l].q||[]).push(arguments)});b[l].l=+new Date;
+e=o.createElement(i);r=o.getElementsByTagName(i)[0];
+e.src='//www.google-analytics.com/analytics.js';
+r.parentNode.insertBefore(e,r)}(window,document,'script','ga'));
+ga('create','UA-10776795-1');ga('send','pageview');</script></body></html>
